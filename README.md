@@ -1,2 +1,3 @@
-# GotoCloud-Typings
-TypeScript type definitions for the JavaScript libraries used in GotoCloud
+# Extern JavaScript Typings
+
+TypeScript type definitions for extern JavaScript libraries
